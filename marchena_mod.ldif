@@ -1,6 +1,8 @@
 dn: x-Idcat=0011,ou=socis,dc=jordi,dc=cat 
 changetype: modify
-replace: objectclass
+delete: objectclass
+-
+add: objectclass
 objectclass: inetOrgPerson
 objectclass: indepeOrgPerson
 objectclass: marchenaAccount
@@ -16,7 +18,9 @@ x-Galeres: TRUE
 
 dn: x-Idcat=0010,ou=socis,dc=jordi,dc=cat 
 changetype: modify
-replace: objectclass
+delete: objectclass
+-
+add: objectclass
 objectclass: inetOrgPerson
 objectclass: indepeOrgPerson
 objectclass: marchenaAccount

@@ -1,7 +1,7 @@
 # Exàmen LDAP 08/11/2019
 ## Jordi Quirós Berbel
 ## Ruta github: https://github.com/jordiiqb/provaldap
-## Ruta dockerhub: 
+## Ruta dockerhub: https://hub.docker.com/repository/docker/jordiiqb/provaldap
 
 Aquest Readme.md explica la realització de l'exàmen de ldap de la asignatura M06-ASO de l'Escola del Treball.
 
