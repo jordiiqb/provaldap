@@ -26,7 +26,7 @@ attributetype ( 1.1.2.1.5 NAME 'x-Twitter'
         SYNTAX 1.3.6.1.4.1.1466.115.121.1.15
 	SINGLE-VALUE )
 
-objectclass ( 1.1.2.2.1 NAME 'x-indepeOrgPerson'
+objectclass ( 1.1.2.2.1 NAME 'indepeOrgPerson'
 	DESC 'Un club de socis molt bonics'
 	SUP inetOrgPerson
 	STRUCTURAL

@@ -1,0 +1,33 @@
+dn: x-Idcat=0011,ou=socis,dc=jordi,dc=cat 
+changetype: modify
+replace: objectclass
+objectclass: inetOrgPerson
+objectclass: indepeOrgPerson
+objectclass: marchenaAccount
+-
+add: x-Delictes
+x-Delictes: Robar
+-
+add: x-AnysComdemna
+x-AnysComdemna: 100
+-
+add: x-Galeres
+x-Galeres: TRUE
+
+dn: x-Idcat=0010,ou=socis,dc=jordi,dc=cat 
+changetype: modify
+replace: objectclass
+objectclass: inetOrgPerson
+objectclass: indepeOrgPerson
+objectclass: marchenaAccount
+-
+add: x-Delictes
+x-Delictes: Ser menorqui
+-
+add: x-AnysComdemna
+x-AnysComdemna: 8
+-
+add: x-Galeres
+x-Galeres: FALSE
+
+

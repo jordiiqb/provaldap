@@ -1,5 +1,5 @@
 dn: dc=jordi,dc=cat
-dc: cat
+dc: jordi
 description: Entitat arrel "jordi.cat"
 objectClass: dcObject
 objectClass: organization
