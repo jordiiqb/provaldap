@@ -1,0 +1,11 @@
+dn: dc=jordi,dc=cat
+dc: cat
+description: Entitat arrel "jordi.cat"
+objectClass: dcObject
+objectClass: organization
+o: jordi.cat
+
+dn: ou=socis,dc=jordi,dc=cat
+ou: socis
+description: Socis de l'entitat "jordi.cat"
+objectclass: organizationalunit

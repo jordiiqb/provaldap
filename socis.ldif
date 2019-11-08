@@ -1,0 +1,48 @@
+dn: x-Idcat=0010,ou=socis,dc=jordi,dc=cat
+objectclass: inetOrgPerson
+objectclass: indepeOrgPerson
+givenName: Pere Canet
+x-Idcat: 0010
+x-Sardanes: True
+x-foto: < file:///opt/docker/pcanet.jpeg
+x-Lema: No, ido i si
+x-Twitter: @pcanet
+mail: pcanet@jordi.cat
+description: Watch out for this menorqui
+homeDirectory: /tmp/home/pcanet
+userPassword: {SSHA}srSV6tGIjKgZ0w6qWq5zL+Jw+n1MbTUf
+
+dn: x-Idcat=0011,ou=socis,dc=jordi,dc=cat
+objectclass: inetOrgPerson
+objectclass: indepeOrgPerson
+givenName: Miguel Amoros
+x-Idcat: 0011
+x-Sardanes: False
+x-foto: < file:///opt/docker/mamoros.jpeg
+x-Lema: Catalan y espanol
+x-Twitter: @mamoros
+mail: mamoros@jordi.cat
+description: Watch out for this espanolito
+homeDirectory: /tmp/home/mamoros
+userPassword: {SSHA}Y/D5DN+TGTF/C2ZWr2WdWEGB1/jXMEiA
+
+dn: x-Idcat=0012,ou=socis,dc=jordi,dc=cat
+objectclass: inetOrgPerson
+objectclass: indepeOrgPerson
+givenName: Marta Shanti
+x-Idcat: 0012
+x-Sardanes: True
+x-foto: < file:///opt/docker/mshanti.jpeg
+x-Lema: Catalana de veritat
+x-Twitter: @mshanti
+mail: mshanti@jordi.cat
+description: Watch out for this catalana
+homeDirectory: /tmp/home/mshanti
+userPassword: {SSHA}uRpw0iV7qYFrGmdp+xKtyTj0KtI2R+uf
+
+
+
+
+
+
+
